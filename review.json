@@ -1,0 +1,220 @@
+[
+    {
+      "name": "Rahul Sharma",
+      "rating": 5,
+      "status": "Very Good",
+      "date": "05 Jan, 2026",
+      "verified": true,
+      "helpful": 48,
+      "hasPhoto": false,
+      "comment":
+        "Really impressed with the quality. It looks exactly like the photo and feels premium. Totally satisfied with this purchase — will definitely order again!"
+    },
+    {
+      "name": "Priya G",
+      "rating": 4,
+      "status": "Good",
+      "date": "02 Jan, 2026",
+      "verified": true,
+      "helpful": 31,
+      "hasPhoto": false,
+      "comment":
+        "Product is exactly as shown in the pictures. Delivery was quick and packaging was super neat. Highly recommended to everyone!"
+    },
+    {
+      "name": "Sneha Kulkarni",
+      "rating": 5,
+      "status": "Very Good",
+      "date": "28 Dec, 2025",
+      "verified": true,
+      "helpful": 27,
+      "hasPhoto": false,
+      "comment":
+        "Great value for money. The quality exceeded my expectations and I'm very happy with the overall experience. Must buy!"
+    },
+    {
+      "name": "Aneesha Ibrahim",
+      "rating": 4,
+      "status": "Good",
+      "date": "20 Dec, 2025",
+      "verified": true,
+      "helpful": 19,
+      "hasPhoto": false,
+      "comment":
+        "Super product, quality is really good. Got delivered before time as well. Very satisfied 😊"
+    },
+    {
+      "name": "Divya Shukla",
+      "rating": 5,
+      "status": "Very Good",
+      "date": "18 Dec, 2025",
+      "verified": true,
+      "helpful": 22,
+      "hasPhoto": true,
+      "comment":
+        "I liked it very much! Thank you Meesho for such an amazing product at this price. Can't believe this quality 🙌"
+    },
+    {
+      "name": "Arjun M",
+      "rating": 5,
+      "status": "Very Good",
+      "date": "15 Dec, 2025",
+      "verified": true,
+      "helpful": 15,
+      "hasPhoto": false,
+      "comment":
+        "I was not sure before ordering but it turned out to be really good. Happy with my purchase 😊"
+    },
+    {
+      "name": "Pooja B",
+      "rating": 4,
+      "status": "Good",
+      "date": "22 Dec, 2025",
+      "verified": true,
+      "helpful": 11,
+      "hasPhoto": false,
+      "comment":
+        "Nice product with good finishing. Worth buying if you're looking for something reliable and affordable."
+    },
+    {
+      "name": "Simran T",
+      "rating": 5,
+      "status": "Very Good",
+      "date": "08 Dec, 2025",
+      "verified": false,
+      "helpful": 9,
+      "hasPhoto": false,
+      "comment":
+        "Very happy with my purchase 😊 The product arrived on time and looks exactly as described."
+    },
+    {
+      "name": "Rohini V",
+      "rating": 5,
+      "status": "Very Good",
+      "date": "30 Nov, 2025",
+      "verified": true,
+      "helpful": 18,
+      "hasPhoto": true,
+      "comment":
+        "Mindblowing product, just wow! The quality is top notch for this price. I've already recommended it to all my friends."
+    },
+    {
+      "name": "Faisal K",
+      "rating": 4,
+      "status": "Good",
+      "date": "28 Nov, 2025",
+      "verified": true,
+      "helpful": 8,
+      "hasPhoto": false,
+      "comment":
+        "Worth it, definitely recommend. Good quality and fast delivery. No complaints at all."
+    },
+    {
+      "name": "Jyoti L",
+      "rating": 5,
+      "status": "Very Good",
+      "date": "25 Nov, 2025",
+      "verified": true,
+      "helpful": 14,
+      "hasPhoto": false,
+      "comment":
+        "Must buy, quality is very high. I was surprised to get this quality at such an affordable price on Meesho."
+    },
+    {
+      "name": "Sameer Q",
+      "rating": 4,
+      "status": "Good",
+      "date": "22 Nov, 2025",
+      "verified": false,
+      "helpful": 6,
+      "hasPhoto": false,
+      "comment":
+        "Nice product, gifted to my sister. She loved it too. Good value for money overall."
+    },
+    {
+      "name": "Amit S",
+      "rating": 4,
+      "status": "Good",
+      "date": "30 Dec, 2025",
+      "verified": true,
+      "helpful": 7,
+      "hasPhoto": false,
+      "comment":
+        "Good value for money product. Quality is decent and it arrived well-packaged."
+    },
+    {
+      "name": "Neha J",
+      "rating": 4,
+      "status": "Good",
+      "date": "12 Dec, 2025",
+      "verified": true,
+      "helpful": 5,
+      "hasPhoto": false,
+      "comment":
+        "Thanks Meesho for this 🙏 Product is good and delivery was on time."
+    },
+    {
+      "name": "Abhay D",
+      "rating": 4,
+      "status": "Good",
+      "date": "05 Dec, 2025",
+      "verified": true,
+      "helpful": 10,
+      "hasPhoto": false,
+      "comment":
+        "Superb quality and fast delivery. Ordered twice now and both times excellent."
+    },
+    {
+      "name": "Sahadevan",
+      "rating": 3,
+      "status": "Ok-Ok",
+      "date": "27 Dec, 2025",
+      "verified": false,
+      "helpful": 4,
+      "hasPhoto": false,
+      "comment":
+        "Nice product but delivery was a bit slow. Quality is ok for the price."
+    },
+    {
+      "name": "Vikram R",
+      "rating": 3,
+      "status": "Ok-Ok",
+      "date": "25 Dec, 2025",
+      "verified": true,
+      "helpful": 3,
+      "hasPhoto": false,
+      "comment":
+        "Ok product for the price. Not amazing but not bad either. Serves the purpose."
+    },
+    {
+      "name": "Mani P",
+      "rating": 3,
+      "status": "Ok-Ok",
+      "date": "02 Dec, 2025",
+      "verified": false,
+      "helpful": 2,
+      "hasPhoto": false,
+      "comment": "Ok ok not too great but not bad. Average quality."
+    },
+    {
+      "name": "Meesho User",
+      "rating": 3,
+      "status": "Ok-Ok",
+      "date": "14 Dec, 2025",
+      "verified": true,
+      "helpful": 1,
+      "hasPhoto": false,
+      "comment": "Achha hai thanks meesho 🙏😊💗"
+    },
+    {
+      "name": "Karan H",
+      "rating": 2,
+      "status": "Bad",
+      "date": "10 Dec, 2025",
+      "verified": true,
+      "helpful": 2,
+      "hasPhoto": false,
+      "comment":
+        "Quality not as expected. The product looks different from pictures. Bit disappointed."
+    }
+  ]
